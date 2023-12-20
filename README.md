@@ -2,7 +2,7 @@
 
 **Computer Engineer (Software/Hardware)**
 
-I'm Luis, a Senior Computer Engineer at the University of Central Florida (GO KNIGHTS!). My passion lies in the dynamic world of computer engineering, with a primary focus on the software side. Over the course of my academic journey, I've had the opportunity to delve into diverse projects and technologies, honing my skills in software development.
+Hello everyone! For some background about me, I am a Senior Computer Engineer at the University of Central Florida (GO KNIGHTS!). My passion lies in the dynamic world of computer engineering, with a primary focus on the software side. Over the course of my academic journey, I've had the opportunity to delve into diverse projects and technologies, honing my skills in software development.
 
 ## 🎓 Education
 

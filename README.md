@@ -11,14 +11,15 @@ Hello everyone! For some background about me, I am a Senior Computer Engineer at
 
 ## 📚 Coursework
 
-- **Operating Systems**
-- **Database Systems**
+- **Computer Organization**: Assembly
+- **Object-Oriented Programming:** Java
+- **Database Systems**: mySQL
 - **Computer Networks**
-- **Algorithm Design and Analysis**
-- **Engineer Computational Analysis**
-- **Digital Signal Processing**
-- **Embedded Systems**
-- **Computer Architecture**
+- **Computer Science I (Algorithm Design and Analysis)**: C programming
+- **Engineer Computational Analysis**: C programming
+- **Digital Signal Processing**: Verilog
+- **Embedded Systems**: C Programming
+- **Computer Architecture**:
 
 ## 🚀 Projects
 

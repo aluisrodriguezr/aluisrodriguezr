@@ -7,7 +7,7 @@ I'm Luis, a Senior Computer Engineer at the University of Central Florida (GO KN
 ## 🎓 Education
 
 - **Bachelor of Science in Computer Engineering**
-  - University of Central Florida, Expected Graduation: [2025]
+  - University of Central Florida, Expected Graduation: 2025
 
 ## 📚 Coursework
 

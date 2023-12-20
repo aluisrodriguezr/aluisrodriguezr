@@ -15,9 +15,10 @@ I'm Luis, a Senior Computer Engineer at the University of Central Florida (GO KN
 - **Database Systems**
 - **Computer Networks**
 - **Algorithm Design and Analysis**
-- **Software Engineering**
+- **Engineer Computational Analysis**
 - **Digital Signal Processing**
 - **Embedded Systems**
+- **Computer Architecture**
 
 ## 🚀 Projects
 

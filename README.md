@@ -20,10 +20,12 @@ Hello everyone! For some background about me, I am a Senior Computer Engineer at
 - **Digital Signal Processing**: Verilog
 - **Embedded Systems**: C Programming
 - **Computer Architecture**:
+- **Computer Science II**: Java
+- **Algorithm's For Machine Learning**: Python
 
 ## 🚀 Projects
 
-- [Project Name 1](link-to-repo): Brief description or key features.
+- [Cruise Ship Database](link-to-repo): Brief description or key features.
 - [Project Name 2](link-to-repo): Brief description or key features.
 
 

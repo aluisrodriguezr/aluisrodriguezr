@@ -1,4 +1,4 @@
-# 🌱 Luis A. Rodriguez-Rivera
+# 🌱 Luis A. Rodriguez-Rivera 🌱
 
 **`Computer Engineer (Software/Hardware)`**
 

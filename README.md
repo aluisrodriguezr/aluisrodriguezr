@@ -2,7 +2,7 @@
 
 **`Computer Engineer (Software/Hardware)`**
 
-Hello everyone! For some background about me, I am a Senior Computer Engineer at the University of Central Florida (GO KNIGHTS!). My passion lies in the dynamic world of computer engineering, with a primary focus on the software development. Below is a roadmap of my academic journey and a list of some of the I've had the opportunity in working on.
+Hello everyone! For some background about me, I am a Senior Computer Engineer at the University of Central Florida (GO KNIGHTS!). My passion lies in the dynamic world of computer engineering, with a primary focus on software development. Below is a roadmap of my academic journey and a list of some of the I've had the opportunity in working on.
 
 ## 🎓 Education
 

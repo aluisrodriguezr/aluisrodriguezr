@@ -25,7 +25,7 @@ Hello everyone! For some background about me, I am a Senior Computer Engineer at
 
 ## 🚀 Projects
 
-- [Cruise Ship Database](link-to-repo): Brief description or key features.
+- [Cruise Ship Database](link-to-repo): This project focuses on creating a comprehensive database for a cruise ship, managing information about crew members, passengers, various positions on the ship, excursions, and the interactions between crew members, passengers, and excursions. The project is divided into multiple parts, each contributing to the overall functionality.
 - [Project Name 2](link-to-repo): Brief description or key features.
 
 

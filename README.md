@@ -26,8 +26,6 @@ Hello everyone! For some background about me, I am a Senior Computer Engineer at
 ## 🚀 Projects
 
 - [Cruise Ship Database](https://github.com/aluisrodriguezr/Intro-to-Databases): This project focuses on creating a comprehensive database for a cruise ship, managing information about crew members, passengers, various positions on the ship, excursions, and the interactions between crew members, passengers, and excursions. The project is divided into multiple parts, each contributing to the overall functionality.
-- [Project Name 2](link-to-repo): Brief description or key features.
-
 
 ### Languages & Tools ###
 <img align="left" alt="C" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />

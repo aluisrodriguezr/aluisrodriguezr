@@ -22,9 +22,11 @@ Hello everyone! For some background about me, I am a Senior Computer Engineer at
 - **Computer Architecture**:
 - **Computer Science II**: Java
 - **Algorithm's For Machine Learning**: Python
+- **Operating Systems**: C++, Java
+- **Processes of Object Oriented Software**: PHP, JavaScript
 
 ## 🚀 Projects
-
+- [Gantiffy](): This was a collaberative project, where my team was tasked with creating a website. Ganttify is a free gantt chart alternative we have created to assist future student in their project management.
 - [Cruise Ship Database](https://github.com/aluisrodriguezr/Intro-to-Databases): This project focuses on creating a comprehensive database for a cruise ship, managing information about crew members, passengers, various positions on the ship, excursions, and the interactions between crew members, passengers, and excursions. The project is divided into multiple parts, each contributing to the overall functionality.
 
 ### Languages & Tools ###

@@ -22,7 +22,7 @@ Hello everyone! For some background about me, I am a Senior Computer Engineer at
 - **Computer Architecture**:
 - **Computer Science II**: Java
 - **Algorithm's For Machine Learning**: Python
-- **Operating Systems**: C++, Java
+- **Operating Systems**: Linux, C++, Java
 - **Processes of Object Oriented Software**: PHP, JavaScript
 
 ## 🚀 Projects

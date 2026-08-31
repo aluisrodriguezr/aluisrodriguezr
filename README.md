@@ -28,6 +28,7 @@ Hello everyone! For some background about me, I am a Senior Computer Engineer at
 - **Electronics I**
 
 ## 🚀 Projects
+- [L.U.C.I.D](https://github.com/aluisrodriguezr/LUCID): Optical sensing device that detects and quantifies cyanobacteria (blue-green algae) in water samples before they become visible harmful algal blooms (HABs)
 - [Gantiffy](https://github.com/aluisrodriguezr/Ganttify): This was a collaberative project, where my team was tasked with creating a website. Ganttify is a free gantt chart alternative we have created to assist future student in their project management.
 - [Cruise Ship Database](https://github.com/aluisrodriguezr/Intro-to-Databases): This project focuses on creating a comprehensive database for a cruise ship, managing information about crew members, passengers, various positions on the ship, excursions, and the interactions between crew members, passengers, and excursions. The project is divided into multiple parts, each contributing to the overall functionality.
 
